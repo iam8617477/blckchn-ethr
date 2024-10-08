@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+dist/
+build/
+
+*.log
+*.tmp
+
+package-lock.json
+yarn.lock
+
+coverage/
+*.lcov
+
+.env
+.env.local
+.env.*.local
+
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+Thumbs.db
+ehthumbs.db
+
